@@ -21,6 +21,11 @@ $ npm install
 ```
 
 ## Tasks
+### debug
+```
+npm run debug
+```
+
 ### Test
 ```
 $ npm test # or npm test:watch
@@ -41,6 +46,7 @@ $ npm run changelog
 N/A
 
 ### DevDependencies
+- @my-dish/packer
 - ava
 - convertional-changelog-cli
 - eslint
